@@ -21,4 +21,4 @@ Para rodar qualquer um dos sistemas, navegue até a pasta raiz do projeto no ter
 
 Exemplo para rodar o Sistema de Mídias (Questão 1):
 ```bash
-python src/01_sistema_midias/main.py
+python src/01-sistema_midias/main.py
