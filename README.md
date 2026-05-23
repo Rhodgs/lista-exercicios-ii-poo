@@ -25,7 +25,7 @@ Primeiro, abra o terminal do seu sistema operacional e clone o repositório:
 
 * Clone o repositório
 ```bash
-git clone [https://github.com/Rhodgs/lista-exercicios-ii-poo](https://github.com/Rhodgs/lista-exercicios-ii-poo)
+git clone https://github.com/Rhodgs/lista-exercicios-ii-poo
 ```
 * Entre na pasta raiz do projeto
 ```bash
