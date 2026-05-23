@@ -1,11 +1,14 @@
 # Lista de Exercícios II - Programação Orientada a Objetos
 
-Repositório destinado à resolução da Lista de Exercícios II da disciplina de POO, O projeto foi desenvolvido em Python.
+Repositório destinado à resolução da Lista de Exercícios II da disciplina de POO, O projeto foi desenvolvido em Python
 
 ## 👤 Autor
 - **Nome:** Rhuan
 - **Curso:** Engenharia de Software
 - **Instituição:** UFAM - ICET
+
+## 👤 Professor
+- **Nome:** Alternei de Souza Brito
 
 ## 📁 Estrutura do Repositório
 O projeto está organizado na pasta `src/`, onde cada sistema possui sua própria arquitetura isolada em `models/` (regras de negócio e contratos) e `repositories/` (gerenciamento de dados):
@@ -16,16 +19,40 @@ O projeto está organizado na pasta `src/`, onde cada sistema possui sua própri
 - [`04-sistema_impressao/`](./src/04-sistema_impressão): Exploração de contratos estruturais via `Protocol` (Duck Typing).
 - [`05-sistema_armazenamento/`](./src/05-sistema_armazenamento): Comparativo prático entre Herança Formal (`ABC`) e Tipagem Flexível (`Protocol`).
 
-## 🚀 Como Executar os Testes
-Para rodar qualquer um dos sistemas, navegue até a pasta raiz do projeto no terminal e execute o arquivo `main.py` do sistema desejado. 
+## 🚀 Como Executar os Exercícios
 
-Exemplo para rodar o Sistema de Mídias (Questão 1):
+Primeiro, abra o terminal do seu sistema operacional e clone o repositório:
 
-Copie e cole e aperte Enter:
-
+* Clone o repositório
 ```bash
-git clone https://github.com/Rhodgs/lista-exercicios-ii-poo
-
+git clone [https://github.com/Rhodgs/lista-exercicios-ii-poo](https://github.com/Rhodgs/lista-exercicios-ii-poo)
+```
+* Entre na pasta raiz do projeto
+```bash
 cd lista-exercicios-ii-poo
+```
 
+* Agora, escolha qual sistema deseja executar e rode o comando correspondente no seu terminal
+
+---
+
+* 📺 1. Sistema de Mídias (Questão 1)
+```bash
 python3 src/01-sistema_midias/main.py
+```
+* 💼 2. Sistema de Funcionários (Questão 2)
+```bash
+python3 src/02-sistema_funcionarios/main.py
+```
+* 🔔 3. Sistema de Notificações (Questão 3)
+```bash
+python3 src/03-sistema_notificacoes/main.py
+```
+* 📄 4. Sistema de Impressão (Questão 4)
+```bash
+python3 src/04-sistema_impressao/main.py
+```
+* 💾 5. Sistema de Armazenamento (Questão 5)
+```bash
+python3 src/05-sistema_armazenamento/main.py
+```
