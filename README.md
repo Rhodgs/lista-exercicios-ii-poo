@@ -16,7 +16,7 @@ O projeto está organizado na pasta `src/`, onde cada sistema possui sua própri
 - [`01-sistema_midias/`](./src/01-sistema_midias): Uso de classes abstratas (ABC) e polimorfismo em mídias educacionais.
 - [`02-sistema_funcionarios/`](./src/02-sistema_funcionarios): Gerenciamento e regras de funcionários.
 - [`03-sistema_notificacoes/`](./src/03-sistema_notificacoes): Disparos e serviços de notificações.
-- [`04-sistema_impressao/`](./src/04-sistema_impressão): Exploração de contratos estruturais via `Protocol` (Duck Typing).
+- [`04-sistema_impressao/`](./src/04-sistema_impressao): Exploração de contratos estruturais via `Protocol` (Duck Typing).
 - [`05-sistema_armazenamento/`](./src/05-sistema_armazenamento): Comparativo prático entre Herança Formal (`ABC`) e Tipagem Flexível (`Protocol`).
 
 ## 🚀 Como Executar os Exercícios
