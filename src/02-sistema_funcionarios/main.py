@@ -1,7 +1,7 @@
 from models.funcionario import Funcionario
 from models.funcionarioassalariado import FuncionarioAssalariado
 from models.funcionariohorista import FuncionarioHorista
-from models.funcionarioComissionado import FuncionarioComissionado
+from models.funcionariocomissionado import FuncionarioComissionado
 from repositories.empresa import Empresa
 
 def autoPreenchimento():

@@ -45,7 +45,7 @@ def main():
 Escolha: """))
         
         if opcao == 1:
-            tipoMidia = int(input("Qual tipo de midia?:\n(1) Video, (2) Podcast, (3) Texto Narrado"))
+            tipoMidia = int(input("Qual tipo de midia?:\n(1) Video, (2) Podcast, (3) Texto Narrado\n"))
             titulo = input("Título da mídia: ")
             duracao = input("Duração (ex: 30m, 2h): ")
             
