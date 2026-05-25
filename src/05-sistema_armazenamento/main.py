@@ -1,4 +1,4 @@
-# main.py
+
 from models.armazenador import Armazenador
 from models.salvavel import Salvavel
 from models.armazenadorArquivo import ArmazenadorArquivo
